@@ -1,0 +1,43 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  line-height: 1.7;
+  color: #111111;
+  background: #ffffff;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+
+h2 {
+  margin-top: 32px;
+  font-size: 20px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+a {
+  color: #111111;
+}
+
+.muted {
+  color: #666666;
+}
+
+.box {
+  background: #f6f7fb;
+  border: 1px solid #e5e7ef;
+  border-radius: 16px;
+  padding: 16px 18px;
+  margin-top: 12px;
+}
+
+.footer-link {
+  margin-top: 28px;
+}
